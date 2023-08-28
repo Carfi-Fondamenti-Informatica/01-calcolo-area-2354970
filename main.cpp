@@ -8,6 +8,6 @@ int main() {
     square_area=a*a;
     rectangle_area=a*b;
     trapeze_area=((a+b)*c)/2;
-    cout << triangle_area << " " << square_area << " " << rectangle_area << " " << trapeze_area << endl;
+    cout << triangle_area << square_area << rectangle_area << trapeze_area << endl;
     return 0;
 }
