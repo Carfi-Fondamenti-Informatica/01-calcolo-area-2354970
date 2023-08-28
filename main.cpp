@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     //Qui vanno definite le variabili
-    float a=0,b=0,c=0,
+    float a=0,b=0,c=0;
     
     cin >> a >> b >> c;
 
@@ -13,5 +13,5 @@ int main(){
     cout << a*a <<endl;
     cout << a*b <<endl;
     cout << ((a+b)/2)*c <<endl;
-    return 0;
+
 }
