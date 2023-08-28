@@ -13,5 +13,5 @@ int main(){
     cout << a*a <<endl;
     cout << a*b <<endl;
     cout << ((a+b)/2)*c <<endl;
-    
+    return 0;
 }
